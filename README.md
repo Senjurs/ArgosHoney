@@ -39,7 +39,7 @@ API
 
 
 
-***Arduino*** - Materiel and Language
+***Arduino*** 
 
 **API**
 --- 
@@ -48,8 +48,25 @@ API
 
 **Application**
 --
-- ***Flutter*** - Language for application
+- ***Flutter*** - Language 
 - ***Android Studio Code*** - IDE
+
+
+## Author
+
+-   **Kevin DESBONNETS** 
+-  **Thomas LAFAGE**
+- **William ROGER--DE ROQUELAURE**
+- **Sammy DIBADI** 
+- **Julien SEMENE**
+- **Bastien SAGE**
+- **Bilal FRASNI**
+
+
+## [](https://gist.github.com/JulienRAVIA/1cc6589cbf880d380a5bb574baa38811#license)License
+
+- **MIT LICENCE** - licence.md
+
 
 
 
