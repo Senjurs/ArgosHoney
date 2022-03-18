@@ -43,13 +43,13 @@ API
 
 **API**
 --- 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
-***Flask*** - Language
+- [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
+- ***Flask*** - Language
 
 **Application**
 --
-***Flutter*** - Language for application
-***Android Studio Code*** - IDE
+- ***Flutter*** - Language for application
+- ***Android Studio Code*** - IDE
 
 
 
